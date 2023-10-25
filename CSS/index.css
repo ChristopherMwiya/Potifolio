@@ -1,0 +1,16 @@
+body {
+  height: 100vh;
+  background: #353742;
+  display:flex;
+  justify-content: center;
+
+  
+}
+.intro-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 500px;
+  flex-direction: column;
+  
+}

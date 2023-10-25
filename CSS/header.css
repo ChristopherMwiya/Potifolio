@@ -1,0 +1,9 @@
+.header {
+  border: 2px solid #27AA5C;
+  color:white;
+  border-radius: 30px;
+  padding:13px;
+  display:flex;
+  justify-content: center;
+  max-width: 500px;
+}
